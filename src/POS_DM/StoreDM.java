@@ -12,7 +12,7 @@ import POS_PD.*;
 
 public class StoreDM {
 	public static void loadData(Store store)
-	{
+	{ 
 		String fileName ="C:\\Mine\\Classes\\FALL 2022\\CMSC 2133\\Projects\\Project_2_POS\\src\\POS_DM\\StoreData_v2022.csv";
 		String line = null;
 		String[] result;
